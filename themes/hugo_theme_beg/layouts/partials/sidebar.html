@@ -3,7 +3,7 @@
 
   <section class="panel panel-default">
     <div class="panel-heading">
-      <div class="panel-title">LATESTS</div>
+      <div class="panel-title">Recent</div>
     </div>
     <div class="list-group">
       {{ range first 10 .Site.Pages }}
@@ -15,7 +15,7 @@
   {{ range $key, $value := .Site.Taxonomies }}
   <section class="panel panel-default">
     <div class="panel-heading">
-      <div class="panel-title">{{ $key | singularize | upper }}</div>
+      <div class="panel-title">{{ $key | singularize }}</div>
     </div>
     <div class="list-group">
       {{ range first 10 $value.ByCount }}

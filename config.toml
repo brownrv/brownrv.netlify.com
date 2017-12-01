@@ -3,7 +3,7 @@ baseURL = "https://brownrv.netlify.com/"
 languageCode = "en-us"
 title = "Ron Brown"
 googleAnalytics = ""
-disqusShortname = "XYW"
+disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 relativeurls = true
 
