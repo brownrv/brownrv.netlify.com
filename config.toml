@@ -1,0 +1,4 @@
+theme = "hugo_theme_beg"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ron Brown"
