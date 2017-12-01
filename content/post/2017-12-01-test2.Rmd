@@ -1,0 +1,20 @@
+---
+title: Test2
+author: Ron Brown
+date: '2017-12-01'
+slug: test2
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+We build a linear regression below.
+
+`r ''````{r}
+fit = lm(dist ~ speed, data = cars)
+b = coef(summary(fit))
+plot(fit)
+```
+
+The slope of the regression is `r knitr::inline_expr('b[2, 1]')`.
