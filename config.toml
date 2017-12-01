@@ -5,6 +5,7 @@ title = "Ron Brown"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+relativeurls = true
 
 [[menu.main]]
     name = "About"
