@@ -1,5 +1,5 @@
 theme = "hugo_theme_beg"
-baseURL = "http://example.org/"
+baseURL = "https://brownrv.netlify.com/"
 languageCode = "en-us"
 title = "Ron Brown"
 googleAnalytics = ""
