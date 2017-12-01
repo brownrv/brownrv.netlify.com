@@ -4,8 +4,8 @@ options(blogdown.ext = ".Rmd")
 options(blogdown.subdir = "post")
 
 .First <- function(){
-  library(blogdown)
-  library(tidyverse)
+  #library(blogdown)
+  #library(tidyverse)
   cat("\nWelcome at", date(), "\n") 
 }
 

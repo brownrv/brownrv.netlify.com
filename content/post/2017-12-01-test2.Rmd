@@ -11,7 +11,7 @@ tags:
 
 We build a linear regression below.
 
-`r ''````{r}
+```{r}
 fit = lm(dist ~ speed, data = cars)
 b = coef(summary(fit))
 plot(fit)

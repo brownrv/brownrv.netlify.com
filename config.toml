@@ -3,9 +3,12 @@ baseURL = "https://brownrv.netlify.com/"
 languageCode = "en-us"
 title = "Ron Brown"
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "XYW"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 relativeurls = true
+
+[params]
+  dateformat = "Jan 2, 2006" # Optional
 
 [[menu.main]]
     name = "About"
