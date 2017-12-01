@@ -6,10 +6,19 @@
     <description>Recent content on Ron Brown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 15:48:35 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2017 12 01 Test</title>
+      <link>/post/2017-12-01-test/</link>
+      <pubDate>Fri, 01 Dec 2017 15:48:35 -0500</pubDate>
+      
+      <guid>/post/2017-12-01-test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My New Site</title>
@@ -20,6 +29,16 @@
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min.</description>
+    </item>
+    
+    <item>
+      <title>Test2</title>
+      <link>/post/test2/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test2/</guid>
+      <description>We build a linear regression below.
+fit = lm(dist ~ speed, data = cars)b = coef(summary(fit))plot(fit)The slope of the regression is r b[2, 1].</description>
     </item>
     
     <item>
