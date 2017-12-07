@@ -1,5 +1,5 @@
 options(servr.daemon = TRUE) 
-options(blogdown.author = "Ron Brown")
+options(blogdown.author = "Ron V Brown")
 options(blogdown.ext = ".Rmd")
 options(blogdown.subdir = "post")
 
