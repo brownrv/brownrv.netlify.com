@@ -1,5 +1,5 @@
 theme = "hugo_theme_beg"
-baseURL = "https://ronaldvbrown.com/"
+baseURL = "http://ronaldvbrown.com/"
 languageCode = "en-us"
 title = "Ron Brown"
 googleAnalytics = "UA-110858234-1"
