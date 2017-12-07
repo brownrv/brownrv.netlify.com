@@ -1,8 +1,8 @@
 theme = "hugo_theme_beg"
-baseURL = "https://brownrv.netlify.com/"
+baseURL = "https://ronaldvbrown.com/"
 languageCode = "en-us"
 title = "Ron Brown"
-googleAnalytics = ""
+googleAnalytics = "UA-110858234-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 relativeurls = true

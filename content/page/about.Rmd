@@ -1,0 +1,8 @@
+---
+title: "About Me"
+author: "Ron V Brown"
+date: "December 7, 2017"
+output: html_document
+---
+
+I am a Data Analyst.
