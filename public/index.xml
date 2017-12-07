@@ -13,10 +13,10 @@
     
     <item>
       <title>About Me</title>
-      <link>/page/about/</link>
+      <link>/about/about/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/page/about/</guid>
+      <guid>/about/about/</guid>
       <description>I am a Data Analyst.</description>
     </item>
     
